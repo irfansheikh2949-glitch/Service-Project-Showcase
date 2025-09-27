@@ -1,0 +1,5 @@
+{
+  "name": "Project Showcase Platform",
+  "description": "A secure platform for storing and demonstrating project prototypes for the insurance and service industries, with role-based access control.",
+  "requestFramePermissions": []
+}
